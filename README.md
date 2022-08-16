@@ -2,7 +2,7 @@
 
 ## Install
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/syfqsamvpn/Ma-API/main/mapi.sh)
+wget -q -O /usr/bin/mapi "https://raw.githubusercontent.com/syfqsamvpn/Ma-API/main/mapi.sh" && chmod +x /usr/bin/mapi
 ```
 
 # Command
