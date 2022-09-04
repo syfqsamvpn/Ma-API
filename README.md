@@ -1,6 +1,6 @@
 # Ma-API
 
-<p align="center"><img src="https://github.com/syfqsamvpn/Ma-API/blob/main/photo_2022-09-04_13-36-53.jpg"></p>
+<p align="center"><img src="https://github.com/syfqsamvpn/Ma-API/blob/main/photo_2022-09-04_13-38-57.jpg"></p>
 
 ## Install
 ```
